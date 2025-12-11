@@ -5,6 +5,7 @@ This project is my hands-on exploration of A/B testing in the real world. I simu
 
 I built this project not just to practice data science, but to demonstrate that data-driven decisions can translate directly into business value.
 
+**[READ THE FULL REPORT (PDF)](/Report.pdf)**
 ---
 
 ## Objectives
@@ -80,6 +81,8 @@ Although this is primarily an A/B testing project, I applied multiple statistica
 
 **Final Choice:** All methods were complementary. Z-test confirmed primary conversion lift, t-test verified engagement, and segmentation analysis pinpointed high-value users. This multi-method approach ensures robust, real-world conclusions.
 
+
+![Confidence Interval Bands](Images/Confidence_Interval_Bands.png)
 ---
 
 ## Key Business Insights
