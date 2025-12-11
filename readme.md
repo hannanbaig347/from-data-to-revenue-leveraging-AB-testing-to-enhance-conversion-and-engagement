@@ -83,6 +83,7 @@ Although this is primarily an A/B testing project, I applied multiple statistica
 
 
 ![Confidence Interval Bands](Images/Confidence_Interval_Bands.png)
+***Figure: Conversion Rate Analysis for Control vs. Treatment Group (with 95% Confidence Intervals). The Treatment group consistently performs better.***
 ---
 
 ## Key Business Insights
