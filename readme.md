@@ -119,7 +119,7 @@ This project demonstrates the ability to:
 ## How to Run the Project
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/<your-username>/AB-testing-conversion.git
+   git clone https://github.com/hannanbaig347/from-data-to-revenue-leveraging-AB-testing-to-enhance-conversion-and-engagement.git
 
 
 2.  **Navigate into the folder:**
